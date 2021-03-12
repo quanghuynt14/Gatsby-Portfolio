@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'I am a Vietnamese student in the third year of the Computer Science department at INSA Lyon. Passionate about math and computer science since I was a kid, I like to work and research on complicated algorithms. I have always been aware of the importance of problem solving skills.',
   paragraphTwo: 'As for me, being a computer science student at INSA Lyon, I have acquired solid knowledge in the scientific field. I am a disciplined, rigorous, serious person, these are important and indispensable qualities to become a future engineer. I am always aware of the need to improve myself. Moreover, thanks to my extracurricular activities, I work well in a team and I know how to organize my time. I am also sociable and dynamic.',
   paragraphThree: 'I would like to do an internship in the computer field in France for 3 months this summer. I expect that being an intern in your company would give me new professional experiences in the computer field. I also hope that with my knowledge and experience, I will be of value to your company.',
-  resume: 'https://1drv.ms/b/s!AqKmjKtoYsBE3CnXM26qv0zRGD0t', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1MuhgsJ3CD1jXBMW1Y5SoEVdV2XLaUuc7/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
